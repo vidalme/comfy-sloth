@@ -18,6 +18,7 @@ Teacher: John Smilga<br/>
 Auth0 -> User authentication<br/>
 Stripe -> Online payment, credit and debit cards<br/>
 Netlify -> Deployment and Serveless functions (emulating a Node server for hadling payment info)<br/>
+Formspree -> Handle forms <br/>
 <br/>
 
 //To use the app you will need to install dependencies<br/>
