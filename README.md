@@ -3,6 +3,8 @@ Final project of the course ->  React 18 Tutorial and Projects Course (2023)
 (https://www.udemy.com/course/react-tutorial-and-projects-course/)
 Teacher: John Smilga
 
+Full e-commerce 
+
 [[ Techs ]]
 
 -> React 
