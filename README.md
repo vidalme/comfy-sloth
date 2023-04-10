@@ -1,12 +1,12 @@
 ## Notes
-
+Full e-commerce, furniture and decoration. <br/>
 LIVE -> https://comfy-sloth-preguica.netlify.app/
 
 Final project of the course ->  React 18 Tutorial and Projects Course (2023)
 (https://www.udemy.com/course/react-tutorial-and-projects-course/)<br/>
 Teacher: John Smilga<br/>
 
-Full e-commerce <br/>
+
 <br/>
 [[ Techs ]]<br/>
 <br/>
